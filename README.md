@@ -1,7 +1,11 @@
-👋 Olá! Meu nome é Vanessa, uma estudante de desenvolvimento front-end apaixonada por criar interfaces incríveis e responsivas.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Meu+nome+é+Vanessa👋)](https://git.io/typing-svg)
 
-💻 Habilidades: HTML, CSS, JavaScript, React.
+Front-End Developer 😎
 
-🌱 Atualmente aprendendo sobre frameworks modernos e acessibilidade.
+🤓 Estudante dedicada, explorando HTML, CSS e JavaScript para construir experiências digitais incríveis!
+
+🌱 Em busca de construir projetos que unam funcionalidade e estética!
+
+
 
 
